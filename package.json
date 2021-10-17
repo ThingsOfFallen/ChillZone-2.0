@@ -1,0 +1,10 @@
+{
+  "name": "chillzone",
+  "version": "2.0.0",
+  "main": "src/index.js",
+  "author": "Fallen#3279",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

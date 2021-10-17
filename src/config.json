@@ -1,0 +1,14 @@
+{
+    "client": {
+        "token": "NzgyODI3OTUzOTQ3MDE3MjU3.X8R3WA.1FAGAClX7qRESm358LrXAxrUAr0",
+        "prefix": "/"
+    },
+    "utility": {
+        "welcome_channel": "787291857327357953",
+        "welcome_role": "782831559698808884"
+    },
+    "logs": {
+        "member_logs": "787302968114151444",
+        "mod_logs": "787302988440010753"
+    }
+}
